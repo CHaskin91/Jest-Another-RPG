@@ -18,3 +18,7 @@
 ## Lesson 4 
 * Used the inquirer package in the context of a game and its repeated methods.
 * Used OOP to create a self-contained Game object that leverages other constructor functions.
+
+## Lesson 5
+* Implemented method and property inheritance using both ES5 and ES6 syntax.
+* Converted ES5 constructor functions to ES6 classes without interrupting your test suites.
